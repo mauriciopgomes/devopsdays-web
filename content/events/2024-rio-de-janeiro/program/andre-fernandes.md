@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["andre-fernandes"]
 +++
 
-Engenharia de Plataforma - lições das trincheiras
+Uma breve discussão sobre Engenharia de Plataforma como uma evolução natural de DevOps e os desafios mais comuns em suas implementações.
